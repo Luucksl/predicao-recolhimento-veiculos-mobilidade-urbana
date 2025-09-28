@@ -1,0 +1,15 @@
+pandas
+numpy
+requests
+tqdm
+scikit-learn
+matplotlib
+seaborn
+PyYAML
+db-dtypes
+pyarrow
+xgboost
+statsmodels
+tensorflow
+shap
+
